@@ -6,7 +6,7 @@ Reusable code snippets for basic option pricing models
 
 ## Author
 
-- [@raghavduseja](https://www.github.com/octokatherine)
+- [@raghavduseja](https://github.com/raghavduseja)
 
 
 ## Contents
