@@ -11,17 +11,18 @@ Reusable code snippets for basic option pricing models
 
 ## Contents
 
-- [Black Scholes derivation](https://github.com/raghavduseja/options/blob/4b83458c10c25e3458064e150e6b4cbd3bfb09d9/Derivation:%20Black-Scholes%20option%20pricing%20model)
-- Heston model with Fast Fourier Transform (FFT)
-- Binomial pricer for Exotic options
-- Binomial pricer for American options
-- Pricing a risky Exotic option with CVA
-- Monte Carlo pricing for Exotic options
-- Econometric models for volatility 
+* [Black-Scholes derivation](https://github.com/raghavduseja/Options/blob/6d80fdf681b2057a4c6230178d5d7567a5c46c9b/Black%20Scholes/Black%20Scholes%20Equation%20.pdf)
+* [Pricing a Lookback option using Black Scholes](https://github.com/raghavduseja/Options/blob/6d80fdf681b2057a4c6230178d5d7567a5c46c9b/Black%20Scholes/Pricing%20Lookback%20Options%20using%20Black%20Scholes.pdf)
+* [Pricing a Interest Rate Cap using Black Scholes](https://github.com/raghavduseja/Options/blob/6d80fdf681b2057a4c6230178d5d7567a5c46c9b/Black%20Scholes/Pricing%20an%20interest%20rate%20cap%20using%20Black%20Scholes.pdf)
+* [Pricing a European Option using Binomial model](https://github.com/raghavduseja/Options/blob/6d80fdf681b2057a4c6230178d5d7567a5c46c9b/Binomial/European%20Option%20pricing%20using%20Binomial%20Tree.ipynb)
+* [Pricing a American Option using Binomial model](https://github.com/raghavduseja/Options/blob/6d80fdf681b2057a4c6230178d5d7567a5c46c9b/Binomial/American%20Option%20pricing%20using%20Binomial%20tree.ipynb)
+* [Pricing a Barrier Option (Up and Out) using Binomial model](https://github.com/raghavduseja/Options/blob/6d80fdf681b2057a4c6230178d5d7567a5c46c9b/Binomial/Barrier%20Option%20pricing%20(Up-and-out%20option)%20.ipynb)
+* Heston model with Fast Fourier Transform (FFT)
+* Pricing a risky Exotic option with CVA
+* CIR Process
+* Fourier Transformation for Option Pricing
 
 ## Reusable code snippets
 
 - Cholesky refactorisation for risky counterparties
-## Appendix
 
-Any additional information goes here
